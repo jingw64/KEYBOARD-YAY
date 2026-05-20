@@ -1,10 +1,12 @@
 # Macropad
+
 This is the first project of our keyboard series! Here's a log that details some of the work we did and our thought process behind it.
 
 <br>
 
 ## Macropad v0
-<u> May 19th, 2026</u>
+
+**May 19th, 2026**
 Created the Git Repo, started the Macropad project, and imported the necessary libraries into KiCad. 
 
 We decided we're going to use this repository for the footprints because of its wide variety of switches:
