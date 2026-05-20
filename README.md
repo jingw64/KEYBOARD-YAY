@@ -21,11 +21,27 @@ After the completion of this project, we will:
 ### Softwares
 
 - KiCad
+  - For schematic and PCB design
 - VSCode
+  - For managing files on github and writing firmware
   
-### Libraries Used
+### Libraries
 
 - [Marbastlib](https://github.com/ebastler/marbastlib?ref=ohmbedded.com)
   - A KiCad library specifically for designing keyboard PCBs
 
-### References
+## References
+
+### General Process
+
+- [How to Build a Custom Keyboard From Scratch | Part 1 Layout and Design](https://www.youtube.com/watch?v=IJxuzyO9b8M) - Casual Coders
+- [Custom Keyboard From Scratch Part 2](https://www.youtube.com/watch?v=fYNxG8RwpaE) - Casual Coders
+- [How to Design Mechanical Keyboard PCBs with Kicad](https://www.youtube.com/watch?v=8WXpGTIbxlQ) - Joe Scotto
+
+### Functionality
+
+- [How a Mechanical Keyboard Works (Matrix and Direct Wiring)](https://www.youtube.com/watch?v=7LyziNdFlew) - Joe Scotto
+
+### Component Selection
+
+### Tools How-To
