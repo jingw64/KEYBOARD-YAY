@@ -1,0 +1,24 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "614136c8-a77d-46c5-b91b-b3698493ea5b")
+	(paper "A4")
+	(lib_symbols)
+	(text "Keyboard!"
+		(exclude_from_sim no)
+		(at 22.606 15.748 0)
+		(effects
+			(font
+				(size 1.7018 1.7018)
+			)
+		)
+		(uuid "21a4a125-838b-416b-9147-11e419445aaf")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
