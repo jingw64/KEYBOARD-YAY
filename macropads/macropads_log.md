@@ -45,7 +45,7 @@ We realized we hadn't figured out what we wanted the keyboard layout to look lik
 
 Designed the layout in [keyboard layout editor](https://www.keyboard-layout-editor.com/) and settled on what we wanted to make a macropad for. Renamed project from macropad_v0 to burgerpad due to the burger-like shape of the layout. [^1]
 
-[Keyboard Layout Documentation](../knowledge/Keyboard%20Layout!.md)
+[Keyboard Layout Documentation](../knowledge/Keyboard_Layout.md)
 
 [^1]: This was done after 12am, so we put this under May 21st. Going by my logic though this would've gone under May 20th but it's probably better to keep things consistent with real time. -J
 
