@@ -648,7 +648,11 @@
         "uuid": "614136c8-a77d-46c5-b91b-b3698493ea5b"
       }
     ],
+<<<<<<< HEAD
     "used_designators": "U1",
+=======
+    "used_designators": "U1-2",
+>>>>>>> 2335cdf (added raspberry pi mcu onto schematic and pcb)
     "variants": []
   },
   "sheets": [
