@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "macropad_v0.kicad_pro",
+    "filename": "burgerpad.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -643,8 +643,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "macropad_v0.kicad_sch",
-        "name": "Root",
+        "filename": "burgerpad.kicad_sch",
+        "name": "burgerpad",
         "uuid": "614136c8-a77d-46c5-b91b-b3698493ea5b"
       }
     ],
