@@ -25,6 +25,8 @@ After the completion of this project, we will:
   - For schematic and PCB design
 - VSCode
   - For managing files on github and writing firmware
+- Notion
+  - For writing up documentation that require collaborative work
   
 ### Libraries
 
