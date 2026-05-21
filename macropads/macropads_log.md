@@ -41,7 +41,7 @@ Ended up deciding on the RP2040 due to its software compatibilities, size, and p
 
 ### May 21st, 2026
 
-We realized we hadn't figured out what we wanted the keyboard layout to look like, in addition to the purpose of the macropad itself. 
+We realized we hadn't figured out what we wanted the keyboard layout to look like, in addition to the purpose of the macropad itself.
 
 Designed the layout in [keyboard layout editor](https://www.keyboard-layout-editor.com/) and settled on what we wanted to make a macropad for. Renamed project from macropad_v0 to burgerpad due to the burger-like shape of the layout. [^1]
 

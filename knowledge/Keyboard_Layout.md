@@ -1,4 +1,4 @@
-# Keyboard Layout!
+# Keyboard Layout
 
 Date: May 21, 2026
 Authors: Jingyuan Wen, Richard Ding
