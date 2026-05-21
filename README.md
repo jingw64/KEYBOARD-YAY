@@ -13,7 +13,7 @@ After the completion of this project, we will:
 
 ## Projects Thus Far
 
-- Macropad
+- [Macropad](./macropad_proj/)
   - Our very first project to get us familiar with software and the PCB designing process
 
 ## Tools
