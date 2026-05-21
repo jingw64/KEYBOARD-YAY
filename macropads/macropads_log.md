@@ -31,7 +31,7 @@ We decided we're going to use this repository for the footprints because of its 
 
 Did some research into microcontrollers (what they are, which ones to use).
 
-[Microcontroller Documentation](../knowledge/Microcontroller!.md)
+[Microcontroller Documentation](../knowledge/Microcontroller.md)
 
 Ended up deciding on the RP2040 due to its software compatibilities, size, and price. Imported its symbols and footprints into KiCad.
 
