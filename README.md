@@ -13,8 +13,9 @@ After the completion of this project, we will:
 
 ## Projects Thus Far
 
-- [Macropad](./macropad_proj/)
-  - Our very first project to get us familiar with software and the PCB designing process
+- [~~Macropad~~ Burgerpad](./macropad_proj/)
+  - Our very first project in the keyboard series to get us familiar with software and the PCB designing process
+  - A macropad in a layout that looks similar to a burger; made to print out Greek letters to make writing equations and lab reports easier
 
 ## Tools
 
