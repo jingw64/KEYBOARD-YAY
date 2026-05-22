@@ -53,8 +53,14 @@ Designed the layout in [keyboard layout editor](https://www.keyboard-layout-edit
 
 Decided on what types of switches to use (choc v1) and figured out how we wanted to configure the keyboard matrix.
 
-Completed schematic and PCB layouts.
+[Switches & Keys Documentation](../knowledge/Switches_Keys.md)
 
+Diagram of the marked up keyboard matrix with three rows and four columns
 ![Final matrix configuration](../assets/matrix_configuration.png)
 
-**Next step: add traces and run PCB through the DRC**
+Completed schematic and PCB layouts
+![Bugerpad Symbols](../assets/burgerpad_symbols.png)
+![Unrouted Burgerpad](../assets/burgerpad_unrouted.png)
+We decided to put the diodes on the back and the microcontroller at the top. I guess it kinda looks like an olive on top if you really squint your eyes. -R
+
+**Next step: add traces and run PCB and run the DRC**

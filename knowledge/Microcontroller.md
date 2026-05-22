@@ -1,6 +1,7 @@
 # Microcontroller!
 
 Date: May 20, 2026
+
 Authors: Jingyuan Wen, Richard Ding
 
 ## What is a microcontroller?

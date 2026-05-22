@@ -1,7 +1,8 @@
 # Switches & Keys
 
 Date: May 21, 2026
-Select: Knowledge Base
+
+Authors: Jingyuan Wen, Richard Ding
 
 ## Types of Switches
 
