@@ -63,4 +63,4 @@ Completed schematic and PCB layouts
 ![Unrouted Burgerpad](../assets/burgerpad_unrouted.png)
 We decided to put the diodes on the back and the microcontroller at the top. I guess it kinda looks like an olive on top if you really squint your eyes. -R
 
-**Next step: add traces and run PCB and run the DRC**
+**Next step: add traces and run PCB through the DRC**
