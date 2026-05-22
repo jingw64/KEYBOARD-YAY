@@ -648,13 +648,13 @@
         "uuid": "614136c8-a77d-46c5-b91b-b3698493ea5b"
       }
     ],
-    "used_designators": "U1-2",
+    "used_designators": "U1-2,CH1-12,#PWR1,D1-24,S1",
     "variants": []
   },
   "sheets": [
     [
       "614136c8-a77d-46c5-b91b-b3698493ea5b",
-      "Root"
+      "burgerpad"
     ]
   ],
   "text_variables": {},
