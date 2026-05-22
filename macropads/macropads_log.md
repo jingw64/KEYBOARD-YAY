@@ -50,3 +50,11 @@ Designed the layout in [keyboard layout editor](https://www.keyboard-layout-edit
 [^1]: This was done after 12am, so we put this under May 21st. Going by my logic though this would've gone under May 20th but it's probably better to keep things consistent with real time. -J
 
 **Next step (after waking up): Look into switches and equipment**
+
+Decided on what types of switches to use (choc v1) and figured out how we wanted to configure the keyboard matrix.
+
+Completed schematic and PCB layouts.
+
+![Final matrix configuration](../assets/matrix_configuration.png)
+
+**Next step: add traces and run PCB through the DRC**
