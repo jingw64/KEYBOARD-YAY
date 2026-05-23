@@ -44,7 +44,3 @@ After the completion of this project, we will:
 ### Functionality
 
 - [How a Mechanical Keyboard Works (Matrix and Direct Wiring)](https://www.youtube.com/watch?v=7LyziNdFlew) - Joe Scotto
-
-### Component Selection
-
-### Tools How-To
