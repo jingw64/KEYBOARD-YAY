@@ -64,3 +64,13 @@ Completed schematic and PCB layouts
 We decided to put the diodes on the back and the microcontroller at the top. I guess it kinda looks like an olive on top if you really squint your eyes. -R
 
 **Next step: add traces and run PCB through the DRC**
+
+---
+
+### May 22nd, 2026
+
+Added traces to burgerpad PCB and ran it through the DRC. The only errors were on silkscreen clippings, which was a quick and easy fix.
+
+![Burgerpad with traces](../assets/burgerpad_with_traces.png)
+
+**Next step: look at stuff to buy and place orders!!**
