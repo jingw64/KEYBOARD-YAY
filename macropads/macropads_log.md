@@ -67,10 +67,16 @@ We decided to put the diodes on the back and the microcontroller at the top. I g
 
 ---
 
-### May 22nd, 2026
+### May 22, 2026
 
 Added traces to burgerpad PCB and ran it through the DRC. The only errors were on silkscreen clippings, which was a quick and easy fix.
 
 ![Burgerpad with traces](../assets/burgerpad_with_traces.png)
+
+Did some research into what we need for [soldering equipment](../knowledge/Soldering_Equipment.md). Also realized choc v1 2u keycaps and stabilizers are hard to find and expensive, so we ditched the 2u spacebar for two 1u keys. The new keyboard matrix looks like this:
+
+![Bugerpad Key Matrix, without 2u](../assets/updated_burgerpad_layout.png)
+
+J did a bit of rerouting, which required her to create a new row. However, it should mostly be the same.
 
 **Next step: look at stuff to buy and place orders!!**

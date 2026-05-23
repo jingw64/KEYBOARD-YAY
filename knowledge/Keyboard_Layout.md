@@ -2,6 +2,8 @@
 
 Date: May 21, 2026
 
+Last Updated: May 22, 2026
+
 Authors: Jingyuan Wen, Richard Ding
 
 ## Firmware???
@@ -44,3 +46,7 @@ Here are some layouts we decided based on what we felt would feel natural to use
 [{x:0.5},"del", "π\nΠ", {w:2}, "space"]
 
 ```
+
+Update: We realized finding choc stabilizers and 2u keys was expensive and annoying, so we replaced the spacebar with a smaller one and fit a key in. The new layout looks like this:
+
+![Burgerpad Layout, without 2u](../assets/keyboard_layout_3.png)
